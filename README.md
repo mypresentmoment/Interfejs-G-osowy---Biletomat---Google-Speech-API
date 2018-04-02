@@ -1,4 +1,4 @@
-# interfejs głosowy biletomatu miejskiego oparty o Google Speech API
+# Interfejs głosowy biletomatu miejskiego oparty o Google Speech API
 
 
 ## Wymagania

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nimble-lead-192421",
+  "private_key_id": "4629be8397940a91ac07890ea870eafbd6eaac14",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC78GdJxomIgJNu\nB8l3Fo8rmVixw01j20qgkzX3nPkTkDSomuns42+LhSb1X0bjsC+fcI8DWLtKlEaU\nh98QU9kc9pa+bYsFTu5JS7GDTo0D201i0N3L4mzylFQQLSiwOCWXn6HTbEIXrPBV\nE8Ta8VsLnJH35bbnDdOIzBSecZOSaTiFJlBV2I58jhwzSfColjSbJ2iRltlVKwuJ\nzSUOi0TCHTOL0r8RWc5oX1Z3bokEPjm9edpmFIAkrHxHT8tK7mO66CET/yevmdcx\nWE7SYcnbR+V+SkTQwhKRL1UU1Y3kG35KpYnQaTf2hxO84/IBVn/wt270MYRlRJXm\nOXVvAvkdAgMBAAECggEACUGDb2sQwPacIYd5UPJ9JfI3ymF1AUhT5OlQd3EgBJT4\nkvPg4M1+uTSwlisVbFyeq8/jqzrb1oYg8msSqFTeKi1W1UAYiwViekejvB91QHhf\nglCzwQ6Au8hkWiZEjRE8K2XYQXe2dZYLLBV81M+djUqDwd1quaHBBklkG+g6ErQi\n/RL/4d5z1f+tostt9mQQr++QhIkFYRsrxhbjLsbHVyBVsJ+IhNF8mEHGTCS5P6eB\n7EwphMtcXhAXBhB9BVALQFazoiqFL0E8PcUDmbDNHEQCDw5FjTiOy5dpVubf/5NZ\npxZPT8IBTatwj3JiuuylDdq4gQgwEiWV0WP6cRTdAQKBgQDb75Duyw40iIr75CXI\nYrSY6B/GrFZYWiDXLyC0yTsmgb8Wk6bCzV41uoMx0mOzyY559cxPcRgMq2PCZ8AH\ntOE5HdLePilwC0IC15kIHWnmnmtLZxzXx88qB/iaT0+kxqIZ4RmY0IXpge/rRoKO\nDiYiQpThXBhtPl+oQlSFT5JmwQKBgQDawa7lsK0U1axiqF1V8h+L46fqwD+w5x1h\ns4hNc7cBhVFHYSPHQXiCkh+fPp6XOnfJaz5b2QYxosFvfZ7oAdWaC9X/N5c3Ydgs\naltCDQBxY9k38oIPFnn6r+cagWbNB1FfkNzxSPbQG29nQwq9IKH428+4eEp+vHtW\nXQeqHCnlXQKBgQCRGWNP94z+oZq4BlPa+SvWuUXFiAtLLOL/tGrqetxYUj8kgPMD\nEAR4g/1sEDaQ9YfW9I//VUidizE8n8A0FWSFjySAVRh3gCXjxCOFFAq7CIcW7wc7\nYOpO+4VLIMoVlqp5UmXVyLSgUoZbfWBCohkMf0rDx0OiRwVK97/VV6LpwQKBgQDD\nWQpyGt+1J0qVn3wZ7+mz5kxhGeTGeNyIDua9I4RdW0xFzb1BhnmzQAH1FtpQeenW\neGprYtZhJNJQWYG59UlmEwO6sU3cKwf8Qc3Uof+vQlcL2wfBqXSsJMDfroa6uLo1\n+QsUfO/Kz3UgZYIFekqqDMDmHqWHn5EUgmcBxby0EQKBgQDU4be6xBO58YLUofzo\nb0Oc/MgotuaWpb2/XK/nS3SckKBxCUKEUid9L6dKHGfv1IljZ/EXtGTGnOWe1PQO\nSf4tN2vev7YWrr6wROiFZxdEFa0G1WCXRnMZMavp+mwb5jZhoo87ZDNKLFCMTRyP\nKZ413pm3dKsNh4GWTwJs7hwr9w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech@nimble-lead-192421.iam.gserviceaccount.com",
+  "client_id": "118204928958530282656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech%40nimble-lead-192421.iam.gserviceaccount.com"
+}
